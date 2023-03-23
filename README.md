@@ -1,6 +1,7 @@
-#Deployed Link
+## Deployed Link
 https://effortless-tarsier-a0c027.netlify.app/
-
+## Tech Stack
+React, CSS, React-Icons
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
